@@ -1,0 +1,7 @@
+**/Unity/*.idea
+**/Unity/Library
+**/Unity/Logs
+**/Unity/obj
+**/Unity/UserSettings
+**/Unity/Assembly-CSharp.csproj
+**/Unity/Unity.sln
