@@ -4,3 +4,6 @@
 [submodule "CyberChips_Unity"]
 	path = CyberChips_Unity
 	url = https://github.com/AtaraxyState/CyberChips_Unity
+[submodule "CyberChipsUnreal"]
+	path = CyberChipsUnreal
+	url = ./
