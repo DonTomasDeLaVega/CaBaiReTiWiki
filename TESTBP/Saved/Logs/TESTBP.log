@@ -1271,3 +1271,19 @@ Make sure 'Enemy_C' has been compiled for  Set ActualCase
 [2022.05.13-09.51.39:273][764]LogSavePackage: Moving '../../../../../../Users/thoma/CaBaiReTiWiki/TESTBP/Saved/EnemyAIEF608A2F45FB2A3F6831A09997C2B719.tmp' to '../../../../../../Users/thoma/CaBaiReTiWiki/TESTBP/Content/Chips/EnemyAI.uasset'
 [2022.05.13-09.51.39:294][764]AssetCheck: New page: Asset Save: EnemyAI
 [2022.05.13-09.51.39:294][764]LogContentValidation: Display: Validating Blueprint /Game/Chips/EnemyAI.EnemyAI
+[2022.05.13-09.57.53:775][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.05.13-09.57.53:800][936]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Chips/BattleLevel_Auto5
+[2022.05.13-09.57.53:800][936]LogSavePackage: Moving '../../../../../../Users/thoma/CaBaiReTiWiki/TESTBP/Saved/BattleLevel_Auto5C8A8609D4938980D41FAAC976D3C3D83.tmp' to '../../../../../../Users/thoma/CaBaiReTiWiki/TESTBP/Saved/Autosaves/Game/Chips/BattleLevel_Auto5.umap'
+[2022.05.13-09.57.53:813][936]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Chips/BattleLevel' took 0.111
+[2022.05.13-09.57.53:813][936]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.111
+[2022.05.13-10.02.18:932][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chips/EnemyAI" FILE="../../../../../../Users/thoma/CaBaiReTiWiki/TESTBP/Content/Chips/EnemyAI.uasset" SILENT=true
+[2022.05.13-10.02.18:946][784]LogSavePackage: Moving output files for package: /Game/Chips/EnemyAI
+[2022.05.13-10.02.18:947][784]LogSavePackage: Moving '../../../../../../Users/thoma/CaBaiReTiWiki/TESTBP/Saved/EnemyAI3391507A4F401DE5E912E782FC0F3D20.tmp' to '../../../../../../Users/thoma/CaBaiReTiWiki/TESTBP/Content/Chips/EnemyAI.uasset'
+[2022.05.13-10.02.18:974][784]AssetCheck: New page: Asset Save: EnemyAI
+[2022.05.13-10.02.18:974][784]LogContentValidation: Display: Validating Blueprint /Game/Chips/EnemyAI.EnemyAI
+[2022.05.13-10.02.23:871][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chips/BattleLevel" FILE="../../../../../../Users/thoma/CaBaiReTiWiki/TESTBP/Content/Chips/BattleLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.13-10.02.23:945][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.05.13-10.02.23:967][ 64]LogSavePackage: Moving output files for package: /Game/Chips/BattleLevel
+[2022.05.13-10.02.23:967][ 64]LogSavePackage: Moving '../../../../../../Users/thoma/CaBaiReTiWiki/TESTBP/Saved/BattleLevel2E52A0B94BA14619DD3A6A887D40E310.tmp' to '../../../../../../Users/thoma/CaBaiReTiWiki/TESTBP/Content/Chips/BattleLevel.umap'
+[2022.05.13-10.02.24:003][ 64]AssetCheck: New page: Asset Save: BattleLevel
+[2022.05.13-10.02.24:003][ 64]LogContentValidation: Display: Validating World /Game/Chips/BattleLevel.BattleLevel
