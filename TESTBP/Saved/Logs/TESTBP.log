@@ -1039,3 +1039,101 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.17-09.10.46:531][ 26]LogNiagara: Compiling System NiagaraSystem /Game/Cursor/FX_Cursor.FX_Cursor took 3.474749 sec, no shader worker used.
 [2022.05.17-09.10.46:963][ 29]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
 [2022.05.17-09.12.10:737][277]LogDerivedDataCache: C:/Users/thoma/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.030 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.17-09.16.36:477][743]LogSlate: Took 0.007017 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.17-09.16.36:503][743]LogSlate: Took 0.005458 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.17-09.16.46:789][315]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Chips/player/Battle.Battle
+[2022.05.17-09.16.46:791][315]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.17-09.16.48:635][315]LogSlate: Took 0.005572 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.17-09.16.50:913][394]LogSlate: Window 'Battle' being destroyed
+[2022.05.17-09.18.11:309][989]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2022.05.17-09.18.11:638][989]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Chips/BattleLevel.BattleLevel
+[2022.05.17-09.18.11:638][989]Cmd: MAP LOAD FILE="../../../../../../Users/thoma/CaBaiReTiWiki/TESTBP/Content/Chips/BattleLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.17-09.18.11:638][989]LightingResults: New page: Lighting Build
+[2022.05.17-09.18.11:639][989]LoadErrors: New page: Loading map: BattleLevel.umap
+[2022.05.17-09.18.11:651][989]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.17-09.18.11:655][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.17-09.18.11:665][989]MapCheck: New page: Map Check
+[2022.05.17-09.18.11:665][989]LightingResults: New page: Lighting Build
+[2022.05.17-09.18.11:732][989]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.17-09.18.11:754][989]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2022.05.17-09.18.11:795][989]LogWorld: UWorld::CleanupWorld for BattleLevel, bSessionEnded=true, bCleanupResources=true
+[2022.05.17-09.18.11:795][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.17-09.18.11:861][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.05.17-09.18.11:917][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.05.17-09.18.11:944][989]LogAudio: Display: Audio Device (ID: 1) registered with world 'BattleLevel'.
+[2022.05.17-09.18.11:944][989]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.17-09.18.11:944][989]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.17-09.18.11:945][989]LogAIModule: Creating AISystem for world BattleLevel
+[2022.05.17-09.18.11:989][989]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.17-09.18.12:051][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.05.17-09.18.12:059][989]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.17-09.18.12:060][989]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,316ms to complete.
+[2022.05.17-09.18.12:060][989]LogFileHelpers: Loading map 'BattleLevel' took 0.423
+[2022.05.17-09.18.13:243][ 41]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.17-09.18.13:265][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.17-09.18.13:266][ 41]PIE: New page: PIE session: BattleLevel (17 mai 2022 à 13:18:13)
+[2022.05.17-09.18.13:279][ 41]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.05.17-09.18.13:280][ 41]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.05.17-09.18.13:282][ 41]LogPlayLevel: Creating play world package: /Game/Chips/UEDPIE_0_BattleLevel
+[2022.05.17-09.18.13:289][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006542s)
+[2022.05.17-09.18.13:289][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Chips/BattleLevel.BattleLevel to /Game/Chips/UEDPIE_0_BattleLevel.BattleLevel (0.007066s)
+[2022.05.17-09.18.13:289][ 41]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.17-09.18.13:290][ 41]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.17-09.18.13:291][ 41]LogAIModule: Creating AISystem for world BattleLevel
+[2022.05.17-09.18.13:292][ 41]LogPlayLevel: PIE: World Init took: (0.002684s)
+[2022.05.17-09.18.13:350][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.05.17-09.18.13:355][ 41]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.05.17-09.18.13:355][ 41]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.17-09.18.13:355][ 41]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.17-09.18.13:355][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.17-09.18.13:355][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.17-09.18.13:355][ 41]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.17-09.18.13:355][ 41]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.17-09.18.13:355][ 41]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.17-09.18.13:355][ 41]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.17-09.18.13:357][ 41]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.17-09.18.13:357][ 41]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.17-09.18.13:357][ 41]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.17-09.18.13:364][ 41]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.17-09.18.13:497][ 41]LogAudioMixer: Display: Using Audio Hardware Device Mon Casque broken (Realtek(R) Audio)
+[2022.05.17-09.18.13:497][ 41]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.17-09.18.13:497][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.17-09.18.13:497][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.17-09.18.13:499][ 41]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.05.17-09.18.13:499][ 41]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2022.05.17-09.18.13:506][ 41]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.05.17-09.18.13:506][ 41]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.05.17-09.18.13:506][ 41]LogInit: FAudioDevice initialized.
+[2022.05.17-09.18.13:506][ 41]LogAudio: Display: Audio Device (ID: 2) registered with world 'BattleLevel'.
+[2022.05.17-09.18.13:538][ 41]LogLoad: Game class is 'Battle_C'
+[2022.05.17-09.18.13:540][ 41]LogWorld: Bringing World /Game/Chips/UEDPIE_0_BattleLevel.BattleLevel up for play (max tick rate 60) at 2022.05.17-11.18.13
+[2022.05.17-09.18.13:542][ 41]LogWorld: Bringing up level for play took: 0.003052
+[2022.05.17-09.18.13:546][ 41]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2022.05.17-09.18.13:641][ 41]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Cases' of length 36 in '/Game/Chips/player/Battle.Battle_C'!
+[2022.05.17-09.18.13:651][ 41]PIE: Server logged in
+[2022.05.17-09.18.13:653][ 41]PIE: Play in editor total start time 0,397 seconds.
+[2022.05.17-09.18.35:004][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.17-09.18.35:005][229]LogWorld: BeginTearingDown for /Game/Chips/UEDPIE_0_BattleLevel
+[2022.05.17-09.18.35:006][229]LogWorld: UWorld::CleanupWorld for BattleLevel, bSessionEnded=true, bCleanupResources=true
+[2022.05.17-09.18.35:008][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.17-09.18.35:037][229]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.17-09.18.35:056][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.17-09.18.35:134][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.17-09.18.35:139][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.05.17-09.18.35:142][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.05.17-09.18.35:245][229]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2022.05.17-09.18.35:293][230]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.05.17-09.18.41:434][556]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Chips/Enemy.Enemy
+[2022.05.17-09.18.41:437][556]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.17-09.19.28:821][  4]BlueprintLog: New page: Compile Enemy
+[2022.05.17-09.19.28:973][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.05.17-09.19.29:809][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chips/Enemy" FILE="../../../../../../Users/thoma/CaBaiReTiWiki/TESTBP/Content/Chips/Enemy.uasset" SILENT=true
+[2022.05.17-09.19.29:848][ 37]LogSavePackage: Moving output files for package: /Game/Chips/Enemy
+[2022.05.17-09.19.29:849][ 37]LogSavePackage: Moving '../../../../../../Users/thoma/CaBaiReTiWiki/TESTBP/Saved/Enemy0CDC91FC429A7392B57FA59F3BC83A22.tmp' to '../../../../../../Users/thoma/CaBaiReTiWiki/TESTBP/Content/Chips/Enemy.uasset'
+[2022.05.17-09.19.29:882][ 37]AssetCheck: New page: Asset Save: Enemy
+[2022.05.17-09.19.29:882][ 37]LogContentValidation: Display: Validating Blueprint /Game/Chips/Enemy.Enemy
+[2022.05.17-09.22.56:094][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chips/Enemy" FILE="../../../../../../Users/thoma/CaBaiReTiWiki/TESTBP/Content/Chips/Enemy.uasset" SILENT=true
+[2022.05.17-09.22.56:125][ 85]LogSavePackage: Moving output files for package: /Game/Chips/Enemy
+[2022.05.17-09.22.56:126][ 85]LogSavePackage: Moving '../../../../../../Users/thoma/CaBaiReTiWiki/TESTBP/Saved/Enemy721166AD47E4C35F035A7CA1FA3511C2.tmp' to '../../../../../../Users/thoma/CaBaiReTiWiki/TESTBP/Content/Chips/Enemy.uasset'
+[2022.05.17-09.22.56:160][ 85]AssetCheck: New page: Asset Save: Enemy
+[2022.05.17-09.22.56:160][ 85]LogContentValidation: Display: Validating Blueprint /Game/Chips/Enemy.Enemy
