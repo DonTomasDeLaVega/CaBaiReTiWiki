@@ -2967,18 +2967,6 @@
 		{
 			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor-TESTBP.pdb",
 			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/TCP-Unreal/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/TCP-Unreal/Binaries/Win64/UnrealEditor-TCPWrapper.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/TCP-Unreal/Binaries/Win64/UnrealEditor-TCPWrapper.pdb",
-			"Type": "SymbolFile"
 		}
 	],
 	"RuntimeDependencies": [
@@ -23488,10 +23476,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/XGEController/XGEController.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/TCP-Unreal/TCPWrapper.uplugin",
 			"Type": "UFS"
 		},
 		{
