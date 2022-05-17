@@ -1,0 +1,46 @@
+Log started at 17/05/2022 11:03:26 (2022-05-17T09:03:26Z)
+No config file at C:\Users\thoma\Documents\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Configuration will be read from:
+  C:\Users\thoma\AppData\Roaming\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Log file: C:\Users\thoma\CaBaiReTiWiki\TESTBP\Saved\Logs\UnrealVersionSelector-2022.05.17-11.03.25.log
+
+Note: Android toolchain NDK r21b recommended
+Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (1)
+Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (2)
+Found Windows 10 SDK version 10.0.19041.0 at C:\Program Files (x86)\Windows Kits\10
+Found Universal CRT version 10.0.19041.0 at C:\Program Files (x86)\Windows Kits\10
+Win64 using Manual SDK 10.0.19041.0
+Log file: C:\Users\thoma\AppData\Local\UnrealBuildTool\Log_GPF.txt
+
+---   SDK INFO START   ---
+
+Some Platforms were skipped due to invalid SDK setup: IOS, Android, Linux, LinuxArm64.
+See the log file for detailed information
+
+---   SDK INFO END   ---
+
+Discovering modules, targets and source code for project...
+Found Visual Studio installation: C:\Program Files\Microsoft Visual Studio\2022\Community (Product=Microsoft.VisualStudio.Product.Community, Version=17.1.32319.34)
+Found Visual Studio toolchain: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103 (Family=14.31.31103, FamilyRank=1, Version=14.31.31105, Is64Bit=True, Preview=False, Architecture=x64, Error=False, Redist=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Redist\MSVC\14.31.31103)
+Skipping C:\Program Files\Epic Games\UE_5.0\Engine\Intermediate\Build\BuildRules\UE5Rules.dll: File is installed
+Skipping C:\Program Files\Epic Games\UE_5.0\Engine\Intermediate\Build\BuildRules\UE5ProgramRules.dll: File is installed
+ERROR: Could not find NetFxSDK install dir; this will prevent SwarmInterface from installing.  Install a version of .NET Framework SDK at 4.6.0 or higher.
+BuildException: Could not find NetFxSDK install dir; this will prevent SwarmInterface from installing.  Install a version of .NET Framework SDK at 4.6.0 or higher.
+   at UnrealBuildTool.VCEnvironment.SetupEnvironment(UnrealTargetPlatform Platform) in d:\build\++UE5\Sync\Engine\Source\Programs\UnrealBuildTool\Platform\Windows\VCEnvironment.cs:line 349
+   at UnrealBuildTool.VCEnvironment..ctor(VCEnvironmentParameters Params) in d:\build\++UE5\Sync\Engine\Source\Programs\UnrealBuildTool\Platform\Windows\VCEnvironment.cs:line 133
+   at UnrealBuildTool.VCEnvironment.Create(VCEnvironmentParameters Params) in d:\build\++UE5\Sync\Engine\Source\Programs\UnrealBuildTool\Platform\Windows\VCEnvironment.cs:line 401
+   at UnrealBuildTool.VCEnvironment.Create(WindowsCompiler Compiler, UnrealTargetPlatform Platform, WindowsArchitecture Architecture, String CompilerVersion, String WindowsSdkVersion, String SuppliedSdkDirectoryForVersion) in d:\build\++UE5\Sync\Engine\Source\Programs\UnrealBuildTool\Platform\Windows\VCEnvironment.cs:line 393
+   at UnrealBuildTool.WindowsPlatform.CreateVCEnvironment(TargetRules Target) in d:\build\++UE5\Sync\Engine\Source\Programs\UnrealBuildTool\Platform\Windows\UEBuildWindows.cs:line 921
+   at UnrealBuildTool.WindowsPlatform.ValidateTarget(TargetRules Target) in d:\build\++UE5\Sync\Engine\Source\Programs\UnrealBuildTool\Platform\Windows\UEBuildWindows.cs:line 1016
+   at UnrealBuildTool.RulesAssembly.CreateTargetRulesInstance(String TypeName, TargetInfo TargetInfo) in d:\build\++UE5\Sync\Engine\Source\Programs\UnrealBuildTool\System\RulesAssembly.cs:line 668
+   at UnrealBuildTool.RulesAssembly.CreateTargetRules(String TargetName, UnrealTargetPlatform Platform, UnrealTargetConfiguration Configuration, String Architecture, FileReference ProjectFile, CommandLineArguments Arguments) in d:\build\++UE5\Sync\Engine\Source\Programs\UnrealBuildTool\System\RulesAssembly.cs:line 723
+   at UnrealBuildTool.ProjectFileGenerator.AddProjectsForAllTargets(PlatformProjectGeneratorCollection PlatformProjectGenerators, List`1 AllGames, List`1 AllTargetFiles, String[] Arguments, ProjectFile& EngineProject, List`1& GameProjects, Dictionary`2& ProgramProjects, Dictionary`2& RulesAssemblies) in d:\build\++UE5\Sync\Engine\Source\Programs\UnrealBuildTool\ProjectFiles\ProjectFileGenerator.cs:line 2386
+   at UnrealBuildTool.ProjectFileGenerator.GenerateProjectFiles(PlatformProjectGeneratorCollection PlatformProjectGenerators, String[] Arguments) in d:\build\++UE5\Sync\Engine\Source\Programs\UnrealBuildTool\ProjectFiles\ProjectFileGenerator.cs:line 891
+   at UnrealBuildTool.GenerateProjectFilesMode.Execute(CommandLineArguments Arguments) in d:\build\++UE5\Sync\Engine\Source\Programs\UnrealBuildTool\Modes\GenerateProjectFilesMode.cs:line 234
+   at UnrealBuildTool.UnrealBuildTool.Main(String[] ArgumentsArray) in d:\build\++UE5\Sync\Engine\Source\Programs\UnrealBuildTool\UnrealBuildTool.cs:line 593
+WriteFileIfChanged() wrote 0 changed files of 0 requested writes.
+Timeline:
+
+[ 0.000]
+[ 0.000](+7.035) <unknown>
+[ 7.035]

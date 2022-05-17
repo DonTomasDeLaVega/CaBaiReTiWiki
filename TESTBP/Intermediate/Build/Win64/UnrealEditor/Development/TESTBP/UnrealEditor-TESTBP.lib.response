@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TESTBP.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\thoma\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\TESTBPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\thoma\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\UnrealEditor\Development\TESTBP\BatlleModeCpp.cpp.obj"
+"C:\Users\thoma\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\UnrealEditor\Development\TESTBP\TESTBP.cpp.obj"
+"C:\Users\thoma\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\UnrealEditor\Development\TESTBP\BatlleModeCpp.gen.cpp.obj"
+"C:\Users\thoma\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\UnrealEditor\Development\TESTBP\TESTBP.init.gen.cpp.obj"
+"C:\Users\thoma\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\UnrealEditor\Development\TESTBP\Default.rc2.res"
+/OUT:"C:\Users\thoma\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\UnrealEditor\Development\TESTBP\UnrealEditor-TESTBP.lib"

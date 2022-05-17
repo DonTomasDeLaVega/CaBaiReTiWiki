@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\thoma\\cabairetiwiki\\testbp\\intermediate\\build\\win64\\unrealeditor\\inc\\testbp\\testbp.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\thoma\\cabairetiwiki\\testbp\\intermediate\\build\\win64\\testbpeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\thoma\\cabairetiwiki\\testbp\\intermediate\\build\\win64\\unrealeditor\\development\\testbp\\definitions.testbp.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
