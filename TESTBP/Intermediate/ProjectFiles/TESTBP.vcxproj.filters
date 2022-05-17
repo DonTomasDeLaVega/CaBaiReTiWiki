@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <None Include="..\..\TESTBP.uproject" />
     <Filter Include="Source">
@@ -34,6 +34,69 @@
     </Filter>
     <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
       <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TCP-Unreal">
+      <UniqueIdentifier>{87954BBC-4DD3-3AFA-9D67-97422C476138}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TCP-Unreal\Source">
+      <UniqueIdentifier>{4C5003F0-6A98-3407-86EF-51C3946FF7C5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TCP-Unreal\Source\TCPWrapper">
+      <UniqueIdentifier>{C89AD8D4-7773-3CE8-87C1-8F22052CB1A5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TCP-Unreal\Source\TCPWrapper\.gitignore">
+      <Filter>Plugins\TCP-Unreal\Source\TCPWrapper</Filter>
+    </None>
+    <None Include="..\..\Plugins\TCP-Unreal\Source\TCPWrapper\TCPWrapper.Build.cs">
+      <Filter>Plugins\TCP-Unreal\Source\TCPWrapper</Filter>
+    </None>
+    <Filter Include="Plugins\TCP-Unreal\Source\TCPWrapper\Private">
+      <UniqueIdentifier>{181EA3F2-4632-3C2E-801B-C7CD06909E95}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TCP-Unreal\Source\TCPWrapper\Private\.gitignore">
+      <Filter>Plugins\TCP-Unreal\Source\TCPWrapper\Private</Filter>
+    </None>
+    <ClCompile Include="..\..\Plugins\TCP-Unreal\Source\TCPWrapper\Private\TCPClientComponent.cpp">
+      <Filter>Plugins\TCP-Unreal\Source\TCPWrapper\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TCP-Unreal\Source\TCPWrapper\Private\TCPServerComponent.cpp">
+      <Filter>Plugins\TCP-Unreal\Source\TCPWrapper\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TCP-Unreal\Source\TCPWrapper\Private\TCPWrapper.cpp">
+      <Filter>Plugins\TCP-Unreal\Source\TCPWrapper\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\TCP-Unreal\Source\TCPWrapper\Private\TCPWrapperUtility.h">
+      <Filter>Plugins\TCP-Unreal\Source\TCPWrapper\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TCP-Unreal\Source\TCPWrapper\Public">
+      <UniqueIdentifier>{9C5B6A4D-07C2-33EC-A8DB-6F0BDD879DD5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TCP-Unreal\Source\TCPWrapper\Public\.gitignore">
+      <Filter>Plugins\TCP-Unreal\Source\TCPWrapper\Public</Filter>
+    </None>
+    <ClInclude Include="..\..\Plugins\TCP-Unreal\Source\TCPWrapper\Public\TCPClientComponent.h">
+      <Filter>Plugins\TCP-Unreal\Source\TCPWrapper\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TCP-Unreal\Source\TCPWrapper\Public\TCPServerComponent.h">
+      <Filter>Plugins\TCP-Unreal\Source\TCPWrapper\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TCP-Unreal\Source\TCPWrapper\Public\TCPWrapper.h">
+      <Filter>Plugins\TCP-Unreal\Source\TCPWrapper\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\TCP-Unreal\TCPWrapper.uplugin">
+      <Filter>Plugins\TCP-Unreal</Filter>
+    </None>
+    <Filter Include="Plugins\TCP-Unreal\Resources">
+      <UniqueIdentifier>{4F370CBB-48AE-3EAB-A307-535B80A54238}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TCP-Unreal\Resources\.gitignore">
+      <Filter>Plugins\TCP-Unreal\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\TCP-Unreal\Resources\Icon128.png">
+      <Filter>Plugins\TCP-Unreal\Resources</Filter>
     </None>
     <Filter Include="Source\TESTBP">
       <UniqueIdentifier>{8D96545E-A184-348F-82C8-68E5F3DB676D}</UniqueIdentifier>
