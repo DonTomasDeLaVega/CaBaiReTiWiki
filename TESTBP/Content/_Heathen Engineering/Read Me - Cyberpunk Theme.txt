@@ -1,0 +1,11 @@
+Getting Started:
+Cyberpunk UIX Theme is a set of art assets, cursor settings and behaviours to help you get started with a Cyberpunk style (genre) UI. The framework includes Heathen Engineering's UIX Foundation and System Core frameworks which offer a roubust and framework from which to build your game and user experance. These tools are not required for use of the theme but are used in examples and demos. You can learn more about UIX Foundaiton and System Core at the links below
+
+Code Documentation: https://heathen-engineering.github.io/uix-documentation/namespace_heathen_engineering.html
+User Documentation: https://heathen-engineering.mn.co/topics
+Discord (live supprot): https://discord.gg/6X3xrRc
+
+Folder Structure
+Theme Examples: _Heathen Engineering/SystemsUIX/Themes/Cyberpunk/Examples Scenes
+Art Assets: _Heathen Engineering/SystemsUIX/Themes/Cyberpunk/Images
+Cursor Settings: _Heathen Engineering/SystemsUIX/Themes/Cyberpunk/Cursors

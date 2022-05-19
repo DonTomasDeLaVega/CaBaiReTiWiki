@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f86030aa262a4fd4aace97fcca7ba1db, type: 3}
+  m_Name: Cyberpunk Lock On
+  m_EditorClassIdentifier: 
+  DeveloperDescription: 
+  hotSpot: {x: 128, y: 128}
+  animation:
+    loop: 0
+    textureArray:
+    - {fileID: 2800000, guid: fdb1a9e205526994eb8e96eeaa378016, type: 3}
+    - {fileID: 2800000, guid: 4810a52651a977c438dfc41604c40f01, type: 3}
+    - {fileID: 2800000, guid: d2ce945f25911c94cae9bcae77942217, type: 3}
+    - {fileID: 2800000, guid: 049495582bec35048877085328639f4b, type: 3}
+    - {fileID: 2800000, guid: 727c7b2166e5869488a5b9369897b2d5, type: 3}
+    - {fileID: 2800000, guid: 924abe9dad473ca45adcc2277ca4ccaa, type: 3}
+    - {fileID: 2800000, guid: 545007b47c38ae24e96d850d16db80b6, type: 3}
+    - {fileID: 2800000, guid: 9e9a9691118af6f4cba9a42b966d13dc, type: 3}
+    framesPerSecond: 30

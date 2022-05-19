@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f86030aa262a4fd4aace97fcca7ba1db, type: 3}
+  m_Name: Cyberpunk Health
+  m_EditorClassIdentifier: 
+  DeveloperDescription: 
+  hotSpot: {x: 128, y: 128}
+  animation:
+    loop: 0
+    textureArray:
+    - {fileID: 2800000, guid: 3d88f26c470245e41a050f374167adf7, type: 3}
+    - {fileID: 2800000, guid: 624d93673b6eb8347baaa7bebd2fb0e9, type: 3}
+    - {fileID: 2800000, guid: b3fdcd12428c8794c8c9baa6c7536e30, type: 3}
+    - {fileID: 2800000, guid: 0499df8caf949f74c8db3aa2c348972a, type: 3}
+    - {fileID: 2800000, guid: ea50b0b7c967a094283ebd43310ccc57, type: 3}
+    - {fileID: 2800000, guid: e06b4b800da18e449b17b78b3406c5d8, type: 3}
+    - {fileID: 2800000, guid: 367de7f253418de4bada52096a2b45d0, type: 3}
+    - {fileID: 2800000, guid: 924b44789b32ce54db2076e0b28e5e41, type: 3}
+    - {fileID: 2800000, guid: 6140763b1e387e44fa393ce4d17ea0e9, type: 3}
+    framesPerSecond: 30

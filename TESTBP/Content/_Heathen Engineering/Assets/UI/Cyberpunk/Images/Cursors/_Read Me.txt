@@ -1,0 +1,1 @@
+We have created the cursors as white images, if you want additional colors its advised that you open them in an image editor, color them to taste and "Save As" so that you preserve the original white version.

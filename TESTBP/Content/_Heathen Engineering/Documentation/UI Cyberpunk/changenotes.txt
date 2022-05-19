@@ -1,0 +1,14 @@
+v2019.1.1.1
+
+Patch Notes:
+If you have any questions at all you should join the Discord and ask in the UX channel
+https://discord.gg/6X3xrRc
+
+Changes
+	- Updated UX to UX V2
+	- Updated all sample scenes for changes in UX V2
+	- Reorganized folders to conform to V2 style structures
+	- Updated several cursor images to provide more contrast
+
+Removed
+	- Removed System Core examples to prevent conflicts with other assets that use System Core

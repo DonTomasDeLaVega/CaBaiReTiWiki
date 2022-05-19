@@ -1,0 +1,14 @@
+v2019.2.2.1
+
+Patch Notes:
+Every feature, interface, componenet, object and enum is now fully documented including details on every field, attribute, event and funciton and samples and examples of use.
+https://kb.heathenengineering.com/assets/ux
+
+If you have any questions at all you should join the Discord and ask in the UX channel
+https://discord.gg/6X3xrRc
+
+Fixes
+	- Corrected an issue where several scripts where missing System namesspcae and where using Obsolete (should have been System.Obsolete)
+
+Removed
+	- Removed System Core examples to prevent conflicts with other assets that use System Core
