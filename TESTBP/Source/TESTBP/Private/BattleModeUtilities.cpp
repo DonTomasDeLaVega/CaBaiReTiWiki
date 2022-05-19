@@ -5,12 +5,12 @@
 void UBattleModeUtilities::SetGridReferences(int index, int &left, int &right, int &up, int &down)
 {
 	//Check right and left
-	if(index % 5 == 0)
+	if(index % 5 == 4)
 	{
 		right = -1;
 		left = index-1;
 	}
-	else if(index % 5 == 1)
+	else if(index % 5 == 0)
 	{
 		left = -1;
 		right = index+1;
