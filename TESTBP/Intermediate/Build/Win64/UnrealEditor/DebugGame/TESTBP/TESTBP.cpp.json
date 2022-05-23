@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\tlamz\\documents\\coursl2\\cabaireti\\cabairetiwiki\\testbp\\source\\testbp\\testbp.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tlamz\\documents\\coursl2\\cabaireti\\cabairetiwiki\\testbp\\intermediate\\build\\win64\\testbpeditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\tlamz\\documents\\coursl2\\cabaireti\\cabairetiwiki\\testbp\\intermediate\\build\\win64\\unrealeditor\\debuggame\\testbp\\definitions.testbp.h",
+            "c:\\users\\tlamz\\documents\\coursl2\\cabaireti\\cabairetiwiki\\testbp\\source\\testbp\\testbp.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

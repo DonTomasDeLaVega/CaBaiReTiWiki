@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\tlamz\\documents\\coursl2\\cabaireti\\cabairetiwiki\\testbp\\source\\testbp\\serverutilities.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tlamz\\documents\\coursl2\\cabaireti\\cabairetiwiki\\testbp\\intermediate\\build\\win64\\testbpeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\tlamz\\documents\\coursl2\\cabaireti\\cabairetiwiki\\testbp\\intermediate\\build\\win64\\unrealeditor\\development\\testbp\\definitions.testbp.h",
+            "c:\\users\\tlamz\\documents\\coursl2\\cabaireti\\cabairetiwiki\\testbp\\source\\testbp\\serverutilities.h",
+            "c:\\users\\tlamz\\documents\\coursl2\\cabaireti\\cabairetiwiki\\testbp\\intermediate\\build\\win64\\unrealeditor\\inc\\testbp\\serverutilities.generated.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\charconv",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\xcharconv.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\xcharconv_ryu.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\xcharconv_ryu_tables.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

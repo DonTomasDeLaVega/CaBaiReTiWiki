@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\tlamz\\documents\\coursl2\\cabaireti\\cabairetiwiki\\testbp\\intermediate\\build\\win64\\unrealeditor\\inc\\testbp\\batllemodecpp.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tlamz\\documents\\coursl2\\cabaireti\\cabairetiwiki\\testbp\\intermediate\\build\\win64\\testbpeditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\tlamz\\documents\\coursl2\\cabaireti\\cabairetiwiki\\testbp\\intermediate\\build\\win64\\unrealeditor\\debuggame\\testbp\\definitions.testbp.h",
+            "c:\\users\\tlamz\\documents\\coursl2\\cabaireti\\cabairetiwiki\\testbp\\source\\testbp\\batllemodecpp.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\tlamz\\documents\\coursl2\\cabaireti\\cabairetiwiki\\testbp\\intermediate\\build\\win64\\unrealeditor\\inc\\testbp\\batllemodecpp.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

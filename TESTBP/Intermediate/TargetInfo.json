@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "TESTBP",
-			"Path": "C:\\Users\\thoma\\CaBaiReTiWiki\\TESTBP\\Source\\TESTBP.Target.cs",
+			"Path": "C:\\Users\\tlamz\\Documents\\CoursL2\\CaBaiReTi\\CaBaiReTiWiki\\TESTBP\\Source\\TESTBP.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "TESTBPEditor",
-			"Path": "C:\\Users\\thoma\\CaBaiReTiWiki\\TESTBP\\Source\\TESTBPEditor.Target.cs",
+			"Path": "C:\\Users\\tlamz\\Documents\\CoursL2\\CaBaiReTi\\CaBaiReTiWiki\\TESTBP\\Source\\TESTBPEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

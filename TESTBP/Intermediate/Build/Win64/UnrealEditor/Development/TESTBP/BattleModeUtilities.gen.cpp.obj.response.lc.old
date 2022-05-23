@@ -1,6 +1,6 @@
-C:\Users\tlamz\Documents\Github\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\UnrealEditor\Inc\TESTBP\BattleModeUtilities.gen.cpp
+C:\Users\thoma\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\UnrealEditor\Inc\TESTBP\BattleModeUtilities.gen.cpp
 /I .
-/I C:\Users\tlamz\Documents\Github\CaBaiReTiWiki\TESTBP\Source\TESTBP\Private
+/I C:\Users\thoma\CaBaiReTiWiki\TESTBP\Source\TESTBP\Private
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine
 /I Runtime
 /I ..\Shaders\Shared
@@ -252,9 +252,9 @@ C:\Users\tlamz\Documents\Github\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\Un
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController
 /I Developer\AnimationDataController\Public
-/I C:\Users\tlamz\Documents\Github\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\UnrealEditor\Inc\TESTBP
-/I C:\Users\tlamz\Documents\Github\CaBaiReTiWiki\TESTBP\Source
-/I C:\Users\tlamz\Documents\Github\CaBaiReTiWiki\TESTBP\Source\TESTBP\Public
+/I C:\Users\thoma\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\UnrealEditor\Inc\TESTBP
+/I C:\Users\thoma\CaBaiReTiWiki\TESTBP\Source
+/I C:\Users\thoma\CaBaiReTiWiki\TESTBP\Source\TESTBP\Public
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
 /I ThirdParty\LibTiff\Source
@@ -269,18 +269,18 @@ C:\Users\tlamz\Documents\Github\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\Un
 /I ThirdParty\PhysX3\PhysX_3.4\Include\common
 /I ThirdParty\PhysX3\PhysX_3.4\Include\extensions
 /I ThirdParty\PhysX3\PhysX_3.4\Include\geometry
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
+/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.7.1\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\tlamz\Documents\Github\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\TESTBPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"C:\Users\tlamz\Documents\Github\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\UnrealEditor\Development\TESTBP\Definitions.TESTBP.h"
-/Yu"C:\Users\tlamz\Documents\Github\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\TESTBPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\tlamz\Documents\Github\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\TESTBPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"C:\Users\tlamz\Documents\Github\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\UnrealEditor\Development\TESTBP\BattleModeUtilities.gen.cpp.lc.obj"
-/sourceDependencies"C:\Users\tlamz\Documents\Github\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\UnrealEditor\Development\TESTBP\BattleModeUtilities.gen.cpp.lc.json"
+/FI"C:\Users\thoma\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\TESTBPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\Users\thoma\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\UnrealEditor\Development\TESTBP\Definitions.TESTBP.h"
+/Yu"C:\Users\thoma\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\TESTBPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\thoma\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\TESTBPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\Users\thoma\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\UnrealEditor\Development\TESTBP\BattleModeUtilities.gen.cpp.lc.obj"
+/sourceDependencies"C:\Users\thoma\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\UnrealEditor\Development\TESTBP\BattleModeUtilities.gen.cpp.lc.json"
 /Zc:inline
 /nologo
 /Oi
