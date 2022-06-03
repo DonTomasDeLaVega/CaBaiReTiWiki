@@ -17,23 +17,49 @@ TArray<int> UServerUtilities::ConvertFStringToIntArray(FString string)
 	StringArray.Add(string);
 
 	TArray<int32> IntArray;
-	for (auto Str : StringArray[0])
+	FString tempArray = StringArray[0];
+	
+	FString result;
+	for (auto charRes : tempArray)
 	{
-		if(Str != '[' && Str != ',' && Str != ']'  && Str != ' ')
-		{
-			IntArray.Add(FCString::Atoi(&Str));
+		
+		switch(charRes) {
+		case ',':
+			IntArray.Add(FCString::Atoi(*result));
+			result = "";
+			break;
+		case ']':
+			if(result != "")
+				IntArray.Add(FCString::Atoi(*result));
+			break;
+		default:
+			result += charRes;
 		}
-		else if(Str == ']')
-				break;
-			
+		
+		// if(charRes == ',')
+		// {
+		// 	IntArray.Add(FCString::Atoi(*result));
+		// 	result = "";
+		// }
+		// else if (charRes == ']')
+		// {
+		// 	if(result != "")
+		// 		IntArray.Add(FCString::Atoi(*result));
+		// 	break;
+		// }
+		// else if(charRes != '[')
+		// {
+		// 	
+		// }
 	}
+	
 	return IntArray;
 }
 
 FString UServerUtilities::ConvertIntArrayToFstring(TArray<int> intArray)
 {
 	FString result = "";
-	for (auto i : intArray)
+	for (int i : intArray)
 	{
 		result += LexToString(i);
 		result += ", ";
