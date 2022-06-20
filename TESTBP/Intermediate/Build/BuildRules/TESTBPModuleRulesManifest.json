@@ -1,9 +1,9 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\tlamz\\Documents\\CoursL2\\CaBaiReTi\\CaBaiReTiWiki\\TESTBP\\Source\\TESTBP\\TESTBP.Build.cs",
-		"C:\\Users\\tlamz\\Documents\\CoursL2\\CaBaiReTi\\CaBaiReTiWiki\\TESTBP\\Plugins\\TCP-Unreal\\Source\\TCPWrapper\\TCPWrapper.Build.cs",
-		"C:\\Users\\tlamz\\Documents\\CoursL2\\CaBaiReTi\\CaBaiReTiWiki\\TESTBP\\Source\\TESTBP.Target.cs",
-		"C:\\Users\\tlamz\\Documents\\CoursL2\\CaBaiReTi\\CaBaiReTiWiki\\TESTBP\\Source\\TESTBPEditor.Target.cs"
+		"C:\\Users\\thoma\\CyberChips\\TESTBP\\Source\\TESTBP\\TESTBP.Build.cs",
+		"C:\\Users\\thoma\\CyberChips\\TESTBP\\Plugins\\TCP-Unreal\\Source\\TCPWrapper\\TCPWrapper.Build.cs",
+		"C:\\Users\\thoma\\CyberChips\\TESTBP\\Source\\TESTBP.Target.cs",
+		"C:\\Users\\thoma\\CyberChips\\TESTBP\\Source\\TESTBPEditor.Target.cs"
 	],
-	"EngineVersion": "5.0.1"
+	"EngineVersion": "5.0.2"
 }

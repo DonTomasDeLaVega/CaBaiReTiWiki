@@ -2,8 +2,8 @@
 /D_WIN64
 /l 0x409
 /I "."
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
+/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.7\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
@@ -58,11 +58,11 @@
 /DNDEBUG=1
 /DUE_BUILD_DEVELOPMENT=1
 /DORIGINAL_FILE_NAME="UnrealEditor-TESTBP.dll"
-/DBUILT_FROM_CHANGELIST=19764885
-/DBUILD_VERSION=++UE5+Release-5.0-CL-19764885
+/DBUILT_FROM_CHANGELIST=20280985
+/DBUILD_VERSION=++UE5+Release-5.0-CL-20280985
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME="Top Down BP Game Template"
 /DPROJECT_PRODUCT_IDENTIFIER=TESTBP
-/fo "C:\Users\tlamz\Documents\CoursL2\CaBaiReTi\CaBaiReTiWiki\TESTBP\Intermediate\Build\Win64\UnrealEditor\Development\TESTBP\Default.rc2.res"
+/fo "C:\Users\thoma\CyberChips\TESTBP\Intermediate\Build\Win64\UnrealEditor\Development\TESTBP\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"
