@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TCPWrapper.cpp.obj": [
+			"TCPClientComponent.cpp.obj",
+			"TCPServerComponent.cpp.obj",
+			"TCPWrapper.cpp.obj"
+		],
+		"Module.TCPWrapper.gen.cpp.obj": [
+			"TCPClientComponent.gen.cpp.obj",
+			"TCPServerComponent.gen.cpp.obj",
+			"TCPWrapper.init.gen.cpp.obj"
+		]
+	}
+}
