@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\thoma\\cyberchips\\testbp\\source\\testbp\\serverutilities.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\thoma\\cyberchips\\testbp\\intermediate\\build\\win64\\testbp\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\thoma\\cyberchips\\testbp\\intermediate\\build\\win64\\unrealgame\\development\\testbp\\definitions.testbp.h",
+            "c:\\users\\thoma\\cyberchips\\testbp\\source\\testbp\\serverutilities.h",
+            "c:\\users\\thoma\\cyberchips\\testbp\\intermediate\\build\\win64\\unrealgame\\inc\\testbp\\serverutilities.generated.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.30.30705\\include\\charconv",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.30.30705\\include\\xcharconv.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.30.30705\\include\\xcharconv_ryu.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.30.30705\\include\\xcharconv_ryu_tables.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

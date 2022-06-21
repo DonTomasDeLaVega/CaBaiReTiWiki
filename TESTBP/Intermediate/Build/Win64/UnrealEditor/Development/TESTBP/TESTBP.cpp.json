@@ -1,12 +1,12 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "c:\\users\\tlamz\\documents\\coursl2\\cabaireti\\cabairetiwiki\\testbp\\source\\testbp\\testbp.cpp",
+        "Source": "c:\\users\\thoma\\cyberchips\\testbp\\source\\testbp\\testbp.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\tlamz\\documents\\coursl2\\cabaireti\\cabairetiwiki\\testbp\\intermediate\\build\\win64\\testbpeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\users\\thoma\\cyberchips\\testbp\\intermediate\\build\\win64\\testbpeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "c:\\users\\tlamz\\documents\\coursl2\\cabaireti\\cabairetiwiki\\testbp\\intermediate\\build\\win64\\unrealeditor\\development\\testbp\\definitions.testbp.h",
-            "c:\\users\\tlamz\\documents\\coursl2\\cabaireti\\cabairetiwiki\\testbp\\source\\testbp\\testbp.h"
+            "c:\\users\\thoma\\cyberchips\\testbp\\intermediate\\build\\win64\\unrealeditor\\development\\testbp\\definitions.testbp.h",
+            "c:\\users\\thoma\\cyberchips\\testbp\\source\\testbp\\testbp.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

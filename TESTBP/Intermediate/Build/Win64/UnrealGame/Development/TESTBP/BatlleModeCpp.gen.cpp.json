@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\thoma\\cyberchips\\testbp\\intermediate\\build\\win64\\unrealgame\\inc\\testbp\\batllemodecpp.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\thoma\\cyberchips\\testbp\\intermediate\\build\\win64\\testbp\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\thoma\\cyberchips\\testbp\\intermediate\\build\\win64\\unrealgame\\development\\testbp\\definitions.testbp.h",
+            "c:\\users\\thoma\\cyberchips\\testbp\\source\\testbp\\batllemodecpp.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\thoma\\cyberchips\\testbp\\intermediate\\build\\win64\\unrealgame\\inc\\testbp\\batllemodecpp.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

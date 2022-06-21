@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\thoma\\cyberchips\\testbp\\intermediate\\build\\win64\\unrealgame\\inc\\testbp\\battlemodeutilities.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\thoma\\cyberchips\\testbp\\intermediate\\build\\win64\\testbp\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\thoma\\cyberchips\\testbp\\intermediate\\build\\win64\\unrealgame\\development\\testbp\\definitions.testbp.h",
+            "c:\\users\\thoma\\cyberchips\\testbp\\source\\testbp\\public\\battlemodeutilities.h",
+            "c:\\users\\thoma\\cyberchips\\testbp\\intermediate\\build\\win64\\unrealgame\\inc\\testbp\\battlemodeutilities.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
